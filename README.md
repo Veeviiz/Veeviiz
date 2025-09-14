@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veeviiz</h1>
-<h3 align="center">🚀 Developer | Flutter • FastAPI • MongoDB</h3>
+<h3 align="center">🚀 Full Stack Developer </h3>
 
 ---
 
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ---
@@ -43,6 +44,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake (optional)
-![snake gif](https://github.com/Veeviiz/Veeviiz/blob/output/github-contribution-grid-snake.svg)
